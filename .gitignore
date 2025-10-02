@@ -1,12 +1,4 @@
-# Ignore Python cache and environment files
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.env
-venv/
-.envrc
-.DS_Store
+
 # Python
 __pycache__/
 *.py[cod]
